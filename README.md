@@ -1,1 +1,1 @@
-"update message to java design pattern for [issue 53] add new feature"
+"update message to java design pattern for [issue 56]"
